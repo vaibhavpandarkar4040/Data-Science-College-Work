@@ -17,5 +17,5 @@ College all Assignment and Practicals of Data Science and Big Data Analysis
 
 
 [Mini projects]()
-  - [Covid data analytics](https://github.com/vaibhavpandarkar4040/Data-Science-College-Work/blob/main/Covid-Vaccine.ipynb)
+  - [Covid Vaccine Data Analytics](https://github.com/vaibhavpandarkar4040/Data-Science-College-Work/blob/main/Covid-Vaccine.ipynb)
   - [Movie Recommendation](https://github.com/vaibhavpandarkar4040/Data-Science-College-Work/blob/main/MovieRecommendation.ipynb)
